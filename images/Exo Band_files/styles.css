@@ -1,0 +1,24 @@
+body{
+  background-color: #2E86C1 ;
+}
+
+.sidebar{
+  float: right;
+  background-color: #17202A ;
+  background-blend-mode:luminosity;
+  height: 100% ;
+
+
+}
+.title{
+color: #873600;
+}
+.column{
+float:left;
+width: 30% ;
+}
+.images{
+float: center ;
+max-width: 20px ;
+max-height: 50px ;
+}
