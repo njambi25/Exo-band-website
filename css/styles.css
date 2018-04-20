@@ -5,19 +5,23 @@ body{
 .sidebar{
   float: right;
   background-color: #17202A ;
-  background-blend-mode:luminosity;
+
   height: 100% ;
 
 
 }
 .title{
-color: #873600;
+color: #F0F3F4;
 }
 .column{
 float:left;
 width: 30% ;
 }
 .images{
-float: center ;
-
+ float: center ;
+}
+.text-box{
+  border: 2px
+  solid ;
+  background-color: #1A5276;
 }
